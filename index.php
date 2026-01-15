@@ -1,6 +1,6 @@
 <html>
   <head>
-<link href="https://www.iub.edu/~ancla/spanport/css/brand.css" rel="stylesheet">
+<link href="css/brand.css" rel="stylesheet">
   </head>
   <body>
 <?
