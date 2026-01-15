@@ -1,7 +1,5 @@
 <?
-$servidor = "mysql.iu.edu:3135";
-#$servidor = "miocid.indiana.edu";
-$usuario_db = "ancla";
-$contrasenna = "s1qu1traque";
-
+$servidor = $_ENV['MYSQL_HOST'];
+$usuario_db = $_ENV['MYSQL_USER'];
+$contrasenna = $_ENV['MYSQL_PASSWORD'];
 ?>
