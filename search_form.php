@@ -15,7 +15,7 @@ include ("css/header.html");
 ?>      
 <p>&nbsp;</p><h2>Student Evaluations: Search</h2>
 <div class="content"><form method="post" action="search_results.php">
-<h3>TESTING FROM BBEDIT-See here</h3>
+<h3>TESTING FROM BBEDIT-evalTest</h3>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
 	<td colspan="2"><p> Type in the last name you wish to look up. You can use wildcards to expand your search. The percent sign acts like a wildcard. Think of it as having the meaning of <i>whatever.</i></p>
