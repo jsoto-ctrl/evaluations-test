@@ -14,7 +14,7 @@ include ("css/header.html");
 
 ?>      
 <p>&nbsp;</p><h2>Student Evaluations: Search</h2>
-	  <h3>Test upload</h3>
+	  <h3>Test upload: evaluations-test</h3>
 <div class="content"><form method="post" action="search_results.php">
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
