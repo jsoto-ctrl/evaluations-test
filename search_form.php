@@ -14,6 +14,9 @@ include ("css/header.html");
 
 ?>      
 <p>&nbsp;</p><h2>Student Evaluations: Search</h2>
+
+	  <h3>Test upload: evaluations-test</h3>
+
 <div class="content"><form method="post" action="search_results.php">
 <h3>TESTING FROM BBEDIT-evalTest</h3>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
